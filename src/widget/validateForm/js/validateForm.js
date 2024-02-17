@@ -97,10 +97,8 @@ export default class ValidateForm {
   }
 
   onInput(){
-    //console.log('onChange')
     const selected = this.cardsContainerEl.querySelector('.cardSelected')
     if(selected){
-      //console.log(selected)
       selected.classList.remove('cardSelected');
       this.isValidMessageEl.textContent = 'Введите номер карты для валидации';
     }
