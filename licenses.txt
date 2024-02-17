@@ -1,7 +1,0 @@
-amex.png: https://icons-for-free.com/iff/png/512/express+amex+charge+credit+card+payment+icon-1320162794613674570.png
-diners.png: https://images.squarespace-cdn.com/content/v1/59b42125b7411c6d02fdb0f3/1505068845489-CZ2LKTNHBYWQXJDLEN8V/Diners-Club-International_Logo_Resized-01.png?format=300w
-Discover.png: https://tradelinesupply.com/wp-content/uploads/2017/06/Discover.png
-jcb.png: https://krona.ru/upload/medialibrary/08d/97hj0ddfzc78abx2yun2pyortv7581tx/1y.png
-mastercard.png: https://krona.ru/upload/medialibrary/aa4/r0g1xc27wb43i05bjjlni761213zj280/2y.png
-mir.png: https://krona.ru/upload/medialibrary/e91/coci2f3nz8p8g84g2l3kz978v51a510a/3y.png
-visa.png: https://krona.ru/upload/medialibrary/ef3/p8b0z86upgn956ejbinsb3eyl7nphyng/4y.png
