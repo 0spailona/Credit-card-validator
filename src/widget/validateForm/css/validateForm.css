@@ -1,0 +1,29 @@
+.validateForm{
+  padding: .4rem .9rem;
+}
+
+.validateData {
+  display: inline-block;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  background: whitesmoke;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+}
+
+.btnValidate{
+  display: inline-block;
+  margin-left: 20px;
+  text-align: center;
+  vertical-align: middle;
+  user-select: none;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  color: white;
+  line-height: 1.5;
+  border-radius: .25rem;
+  border: 1px solid #ced4da;
+  background-color: green;
+}
